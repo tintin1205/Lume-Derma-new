@@ -5,7 +5,7 @@
   --charcoal:#2E2E2E;
   --muted:#6B6B6B;
   --card:#FFFFFF;
-  --border:rgba(46,46,46,0.10);
+  --border:rgba(80,80,80,0.10);
   --shadow: 0 18px 40px rgba(0,0,0,0.07);
   --radius: 18px;
 }
@@ -237,3 +237,4 @@ input:focus, select:focus, textarea:focus{
   .menu.open{ display:flex; }
   .hamburger{ display:block; }
 }
+
